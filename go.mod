@@ -18,7 +18,7 @@ require (
 	github.com/slack-go/slack v0.12.0
 	github.com/stretchr/testify v1.8.1
 	google.golang.org/api v0.105.0
-	gopkg.in/natefinch/lumberjack.v2 v2.0.0
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.27.3
