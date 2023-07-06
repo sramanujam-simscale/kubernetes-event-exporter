@@ -8,7 +8,7 @@ require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Shopify/sarama v1.38.1
 	github.com/aws/aws-sdk-go v1.44.162
-	github.com/elastic/go-elasticsearch/v7 v7.17.7
+	github.com/elastic/go-elasticsearch/v7 v7.17.10
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/linkedin/goavro/v2 v2.12.0
 	github.com/opensearch-project/opensearch-go v1.1.0
