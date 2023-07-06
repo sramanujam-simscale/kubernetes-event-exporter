@@ -14,7 +14,7 @@ require (
 	github.com/opensearch-project/opensearch-go v1.1.0
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.19
 	github.com/prometheus/client_golang v1.16.0
-	github.com/rs/zerolog v1.28.0
+	github.com/rs/zerolog v1.29.1
 	github.com/slack-go/slack v0.12.2
 	github.com/stretchr/testify v1.8.4
 	google.golang.org/api v0.130.0
