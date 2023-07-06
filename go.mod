@@ -20,9 +20,9 @@ require (
 	google.golang.org/api v0.130.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.27.3
+	k8s.io/api v0.26.0
 	k8s.io/apimachinery v0.27.3
-	k8s.io/client-go v0.27.3
+	k8s.io/client-go v0.26.0
 )
 
 require (
